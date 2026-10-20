@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+.env
+*.pi_telegram
+.x_keys
